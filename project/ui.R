@@ -61,7 +61,7 @@ shinyUI(
                  )
                    
             )     
-        ), # end of "Explore Dataset" tab panel
+        ), ## end of "Explore Dataset" tab panel
     
         tabPanel(p(icon("search"), "LookUp on Brickset Website"),
              mainPanel(
